@@ -16,7 +16,7 @@ I think the sheer number of symbology and layout features/improvements that have
 # Data Mining
 https://github.com/qgis/QGIS/pulls?q=is:pr+SLYR  
 2020-07-01 19:00 EST  
-
+#
 [FEATURE] New line symbol type: Hash line #9644  
 https://github.com/qgis/QGIS/pull/9644  
 
