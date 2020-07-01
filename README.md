@@ -8,3 +8,7 @@ In addition, I would like to talk about how this tool can benefit those in mixed
 Other tips, tricks, and future developments will likely be covered as well.  
 I will be working with Nyall Dawson on the content and scope, so this is my best projection as of now.  
 I will provide updates if it changes.
+
+# Requested Talking Points
+*Kurt Meneke*  
+I think the sheer number of symbology and layout features/improvements that have been developed as a result of SLYR is interesting, and worth a mention.
