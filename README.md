@@ -38,4 +38,36 @@ https://github.com/qgis/QGIS/pull/31728
 [FEATURE] Random marker fill symbol layer type #32241  
 https://github.com/qgis/QGIS/pull/32241  
 
+[FEATURE] Add spacing option for vector layer bar chart diagrams #32984  
+https://github.com/qgis/QGIS/pull/32984  
+
+[FEATURE][diagrams] Add option to control pie diagram angular direction #32986
+https://github.com/qgis/QGIS/pull/32986  
+
+Diagrams - add option to show axis for histogram plots, many fixes #33029  
+https://github.com/qgis/QGIS/pull/33029  
+
+[FEATURE][diagrams] New diagram type "stacked bars" #33043  
+https://github.com/qgis/QGIS/pull/33043  
+
+[diagrams] Paint effect support for diagram renderer #33044
+https://github.com/qgis/QGIS/pull/33044
+
+Rework picture item UI and behavior #35160
+https://github.com/qgis/QGIS/pull/35160
+
+Allow scalebar line style to be set using standard QGIS line symbols #35225  
+https://github.com/qgis/QGIS/pull/35225  
+
+Add "stepped line" and "hollow" scalebar styles #35238  
+https://github.com/qgis/QGIS/pull/35238  
+
+Add numeric formatter "fraction" style #35244  
+https://github.com/qgis/QGIS/pull/35244  
+
+
+
+
+
+
 
