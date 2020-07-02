@@ -65,6 +65,35 @@ https://github.com/qgis/QGIS/pull/35238
 Add numeric formatter "fraction" style #35244  
 https://github.com/qgis/QGIS/pull/35244  
 
+[FEATURE][layouts] New item type for marker symbols #35576  
+https://github.com/qgis/QGIS/pull/35576  
+
+Allow marker items to sync rotation with maps #35591  
+https://github.com/qgis/QGIS/pull/35591  
+
+Allow plugins to register custom "Project Open" handlers #35606  
+https://github.com/qgis/QGIS/pull/35606  
+
+Allow configuring legend patch shapes by double-clicking on legend items #35863  
+https://github.com/qgis/QGIS/pull/35863  
+
+Allow control over the horizontal spacing before legend group/subgroup/symbols #35974  
+https://github.com/qgis/QGIS/pull/35974  
+
+Allow overriding the legend patch size on a per-item basis #36013  
+https://github.com/qgis/QGIS/pull/36013  
+
+Allow custom QgsDataItem types a chance to create a info widget #36014  
+https://github.com/qgis/QGIS/pull/36014  
+
+Allow customisation of division and subdivision symbols as distinct from scalebar tick horizontal symbol #36222  
+https://github.com/qgis/QGIS/pull/36222  
+
+Expose control over layer legend splitting behavior on a layer-by-layer basis #36224  
+https://github.com/qgis/QGIS/pull/36224  
+
+
+
 
 
 
