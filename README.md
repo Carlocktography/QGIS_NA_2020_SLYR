@@ -92,5 +92,6 @@ https://github.com/qgis/QGIS/pull/36222
 Expose control over layer legend splitting behavior on a layer-by-layer basis #36224  
 https://github.com/qgis/QGIS/pull/36224  
 
-Add support for field aliases to OGRFieldDefn, read alias in openfilegdb driver #2729
-https://github.com/OSGeo/gdal/pull/2729
+Add support for field aliases to OGRFieldDefn, read alias in openfilegdb driver #2729  
+https://github.com/OSGeo/gdal/pull/2729  
+
