@@ -13,6 +13,10 @@ I will provide updates if it changes.
 *Kurt Meneke*  
 I think the sheer number of symbology and layout features/improvements that have been developed as a result of SLYR is interesting, and worth a mention.
 
+# Prior Art
+ArcGIS to QGIS In One Easy Lesson with SLYR - Ant Scott - FOSS4GUK Online 2020
+https://youtu.be/h4fC7ryyyTw
+
 # Nyall Notes
 Well - it's a complex situation. In summary:
 - QGIS relies on the GDAL library for accessing GDB databases
