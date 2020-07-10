@@ -41,7 +41,7 @@ https://github.com/qgis/QGIS/pull/32241
 [FEATURE] Add spacing option for vector layer bar chart diagrams #32984  
 https://github.com/qgis/QGIS/pull/32984  
 
-[FEATURE][diagrams] Add option to control pie diagram angular direction #32986
+[FEATURE][diagrams] Add option to control pie diagram angular direction #32986  
 https://github.com/qgis/QGIS/pull/32986  
 
 Diagrams - add option to show axis for histogram plots, many fixes #33029  
@@ -50,11 +50,11 @@ https://github.com/qgis/QGIS/pull/33029
 [FEATURE][diagrams] New diagram type "stacked bars" #33043  
 https://github.com/qgis/QGIS/pull/33043  
 
-[diagrams] Paint effect support for diagram renderer #33044
-https://github.com/qgis/QGIS/pull/33044
+[diagrams] Paint effect support for diagram renderer #33044  
+https://github.com/qgis/QGIS/pull/33044  
 
-Rework picture item UI and behavior #35160
-https://github.com/qgis/QGIS/pull/35160
+Rework picture item UI and behavior #35160  
+https://github.com/qgis/QGIS/pull/35160  
 
 Allow scalebar line style to be set using standard QGIS line symbols #35225  
 https://github.com/qgis/QGIS/pull/35225  
@@ -92,11 +92,5 @@ https://github.com/qgis/QGIS/pull/36222
 Expose control over layer legend splitting behavior on a layer-by-layer basis #36224  
 https://github.com/qgis/QGIS/pull/36224  
 
-
-
-
-
-
-
-
-
+Add support for field aliases to OGRFieldDefn, read alias in openfilegdb driver #2729
+https://github.com/OSGeo/gdal/pull/2729
