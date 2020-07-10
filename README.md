@@ -17,6 +17,19 @@ I think the sheer number of symbology and layout features/improvements that have
 *ArcGIS to QGIS In One Easy Lesson with SLYR - Ant Scott - FOSS4GUK Online 2020*  
 https://youtu.be/h4fC7ryyyTw
 
+# Talking Over
+*Nyall Dawson*  
+Intro  
+Brett/North Road  
+Open-Source SLYR  
+Limitations:  
+Annotations – QGIS 3.16  
+ArcGIS Pro mapx/lyrx/stylex  
+TIN – QGIS 3.18+  
+ArcScene  
+Usage in Mixed Environments  
+Editing in QGIS for Portal/Online  
+
 # Nyall Notes
 *Nyall Dawson*  
 Well - it's a complex situation. In summary:
@@ -181,4 +194,3 @@ https://github.com/qgis/QGIS/pull/36224
 
 Add support for field aliases to OGRFieldDefn, read alias in openfilegdb driver #2729  
 https://github.com/OSGeo/gdal/pull/2729  
-
